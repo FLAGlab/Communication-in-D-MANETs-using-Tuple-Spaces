@@ -1,27 +1,2 @@
-# Built application files
-OwO/*/build/
-
-# Crashlytics configuations
-OwO/com_crashlytics_export_strings.xml
-
-# Local configuration file (sdk path, etc)
-OwO/local.properties
-
-# Gradle generated files
-OwO/.gradle/
-
-# Signing files
-OwO/.signing/
-
-# User-specific configurations
-OwO/.idea/
-*.iml
-
-# OS-specific files
 .DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
+.idea
